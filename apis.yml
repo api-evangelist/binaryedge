@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://docs.binaryedge.io/api-v2.html
 common:
+  - type: VulnerabilityDisclosure
+    url: security/binaryedge-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/binaryedge-domain-security.yml
   - type: Website
     url: https://docs.binaryedge.io/api-v2.html
   - type: PublicAPIsListing
