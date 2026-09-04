@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://docs.binaryedge.io/api-v2.html', status: 301, note: 'declared website redirects to https://help.coalitioninc.com/hc/en-us/articles/48928737389979-What-the-BinaryEdge-scanner-does-and-why-Coalition-may-scan-your-internet-facing-systems — a different registrable domain (binaryedge.io -> coalitioninc.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/binaryedge.png
 name: BinaryEdge
 description: "Provide access to BinaryEdge 40fy scanning platform"
