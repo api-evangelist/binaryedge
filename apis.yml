@@ -41,7 +41,6 @@ apis:
   - name: BinaryEdge
     description: "Provide access to BinaryEdge 40fy scanning platform"
     humanURL: https://docs.binaryedge.io/api-v2.html
-    baseURL: https://docs.binaryedge.io/api-v2.html
     tags:
       - Security
     properties:
